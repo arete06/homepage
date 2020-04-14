@@ -19,6 +19,3 @@ Available search websites and their prefixes:
 - !s: Subreddit
 - !u: Urban Dictionary
 - !b: Bing Images (since Google removed View Image feature)
-
-Screenshot:
-![alt screenshot](https://raw.githubusercontent.com/hidanoki/homepage/master/palemoon_2016-07-18_13-34-44.png)
