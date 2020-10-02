@@ -2,6 +2,7 @@
 
 I made some small changes, like being able to directly type a website url into the search bar, a greeting, the date and time. You can also hover some link so it shows website subdomains and I changed some search prefixes.
 
+![Screenshot](https://i.postimg.cc/2SzNwz5g/Screenshot-from-2020-10-02-14-52-52.png)
 
 Theme based on lainchan
 
